@@ -1,0 +1,129 @@
+{
+  "advertisements": [
+    {
+      "title": "topor",
+      "description": "mere si fara prieteni, e si mai ieftin",
+      "price": 20,
+      "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+      "id": "2",
+      "favorites": [],
+      "userId": "3c36",
+      "category": "Ustensile"
+    },
+    {
+      "title": "cutit",
+      "description": "cand te supara prietenul",
+      "price": 200,
+      "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+      "id": "3",
+      "favorites": [
+        "3c36"
+      ],
+      "userId": "3c36",
+      "category": "Ustensile"
+    },
+    {
+      "title": "Vila pentru petreceri",
+      "description": "e jucarie, dar totusi",
+      "price": 1000,
+      "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+      "id": "5",
+      "favorites": [],
+      "userId": "3c36",
+      "category": "Imobiliare"
+    },
+    {
+      "title": "Laptop",
+      "description": "orice frate",
+      "price": "540",
+      "image": "https://lcdn.altex.ro/resize/media/catalog/product/i/d/2bd48d28d1c32adea0e55139a4e6434a/ideapad_slim_3_gen_8_gri_1_ac433e1f.jpg",
+      "id": "d65c",
+      "favorites": [
+        "3c36"
+      ],
+      "userId": "3c36",
+      "category": "Electrocasnice si electronice"
+    },
+    {
+      "id": "5967",
+      "title": "Betoniera",
+      "description": "pentru facut șapă",
+      "price": "500",
+      "image": "https://c.cdnmp.net/950167909/p/l/7/betoniera-profesionala-500-lt-1-5kw-ls-s500-s07y-tri~4867.jpg",
+      "category": "Ustensile",
+      "favorites": []
+    }
+  ],
+  "categories": [
+    {
+      "name": "Ustensile",
+      "id": "9071"
+    },
+    {
+      "name": "Ustensile bucatarie",
+      "id": "5dfb"
+    },
+    {
+      "name": "Turism",
+      "id": "01b0"
+    },
+    {
+      "name": "Electrocasnice si electronice",
+      "id": "203c"
+    },
+    {
+      "name": "Imobiliare",
+      "id": "b4b1"
+    }
+  ],
+  "users": [
+    {
+      "id": "3c36",
+      "username": "marian",
+      "password": "aaaa",
+      "confirmPassword": "aaaa",
+      "email": "iordachescu_alexandru_marian@yahoo.com"
+    },
+    {
+      "id": "aa44",
+      "username": "bianca",
+      "password": "bbbb",
+      "confirmPassword": "bbbb",
+      "email": "marianiordachescu18@gmail.com"
+    },
+    {
+      "id": "6127",
+      "username": "robert",
+      "password": "cccc",
+      "confirmPassword": "cccc",
+      "email": "if_robert@ceva.com"
+    }
+  ],
+  "currentUser": [
+    {
+      "id": "3c36",
+      "username": "marian",
+      "password": "aaaa"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "3",
+      "title": "cutit",
+      "description": "cand te supara prietenul",
+      "price": 200,
+      "image": "https://mui.com/static/images/cards/contemplative-reptile.jpg",
+      "favorites": [],
+      "userId": "3c36"
+    },
+    {
+      "id": "d65c",
+      "title": "Laptop",
+      "description": "orice frate",
+      "price": "540",
+      "image": "https://lcdn.altex.ro/resize/media/catalog/product/i/d/2bd48d28d1c32adea0e55139a4e6434a/ideapad_slim_3_gen_8_gri_1_ac433e1f.jpg",
+      "favorites": [],
+      "userId": "3c36"
+    }
+  ]
+}
